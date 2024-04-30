@@ -1,10 +1,10 @@
-#Una universidad ofrece un descuento a los estudiantes que depende del estrato y la edad. Si
-#el estrato es 1 y su edad es menor a 18 el descuento será del 20% sobre el valor de la
-#matrícula. Si el estrato es 1 y el alumno tiene 18 o mas años, el descuento será del 15%. Si el
-#estrato es 2 y la edad es menor a 18 años, el descuento será del 10% y si el estrato es 2 y la
-#edad es 18 años o mas, el descuento será del 5%.
-#Escribir el precio que deberá pagar un estudiante por su matrícula y el valor del descuento.
-
+""" Una universidad ofrece un descuento a los estudiantes que depende del estrato y la edad. Si
+el estrato es 1 y su edad es menor a 18 el descuento será del 20% sobre el valor de la
+matrícula. Si el estrato es 1 y el alumno tiene 18 o mas años, el descuento será del 15%. Si el
+estrato es 2 y la edad es menor a 18 años, el descuento será del 10% y si el estrato es 2 y la
+edad es 18 años o mas, el descuento será del 5%.
+Escribir el precio que deberá pagar un estudiante por su matrícula y el valor del descuento.
+ """
 
 estrato = int(input("Ingrese el estrato del estudiante: "))
 edad = int(input("Ingrese la edad del estudiante: "))

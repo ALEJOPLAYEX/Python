@@ -1,6 +1,6 @@
-#. Pide al usuario que ingrese las longitudes de los lados de un triángulo. Utiliza condicionales
-#para determinar si el triángulo es equilátero, isósceles, escaleno o no válido.
-
+""" Pide al usuario que ingrese las longitudes de los lados de un triángulo. Utiliza condicionales
+para determinar si el triángulo es equilátero, isósceles, escaleno o no válido.
+ """
 lado1 = input("ingrese el 1er lado del triangulo: ")
 lado2 = input("ingrese el 2do lado del triangulo: ")
 lado3 = input("ingrese el 3er lado del triangulo: ")

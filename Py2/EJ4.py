@@ -1,7 +1,7 @@
-#Solicita al usuario que ingrese el peso de un paquete y el destino del envío. Utiliza estructuras
-#condicionales para calcular el costo de envío según el peso y el destino. Considera las
-#siguientes tarifas para destinos nacionales e internacionales.
-
+""" Solicita al usuario que ingrese el peso de un paquete y el destino del envío. Utiliza estructuras
+condicionales para calcular el costo de envío según el peso y el destino. Considera las
+siguientes tarifas para destinos nacionales e internacionales.
+ """
 
 
 
